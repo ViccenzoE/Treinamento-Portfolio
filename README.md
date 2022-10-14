@@ -1,8 +1,8 @@
-# Portifólio de Treinamento
-Portifólio desenvolvido como ferramenta de estudo
+# Portfólio de Treinamento
+Portfólio desenvolvido como ferramenta de estudo
 
 ## Sobre o projeto
-Esse portifólio foi desenvolvido como uma ferraementa de estudo Front-end. Toda sua estruturação foi baseada em conteúdos da plataforma de vídeos Youtube de mais de um canal.
+Esse portfólio foi desenvolvido como uma ferraementa de estudo Front-end. Toda sua estruturação foi baseada em conteúdos da plataforma de vídeos Youtube de mais de um canal.
 
 ## Tecnologias utilizadas
 Para a realização desse projeto, foram utilizadas três tecnologias:
