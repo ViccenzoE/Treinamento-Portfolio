@@ -1,13 +1,15 @@
-# Portfólio de Treinamento
-Portfólio desenvolvido como ferramenta de estudo
+# Portifólio de Treinamento
+Portifólio desenvolvido como ferramenta de estudo
 
-## Tarefas
+## Sobre o projeto
+Esse portifólio foi desenvolvido como uma ferraementa de estudo Front-end. Toda sua estruturação foi baseada em conteúdos da plataforma de vídeos Youtube de mais de um canal.
 
-O controle das tarefas desse projeto será realizado no GitHub
+## Tecnologias utilizadas
+Para a realização desse projeto, foram utilizadas três tecnologias:
 
-## Ícones
+1. HTML - Linguagem de marcação;
+2. CSS - Linguagem de estilização;
+3. JavaScript - Linguagem de programação.
 
-:package: Nova Funcionalidade 
-:up: Atualização
-:beatle: Correção de bug
-:checkered_flag: release
+## Sobre mim
+Estudante de Ciência da Computação, tenho apreço pelo desenvolvimento Web. Autalmente, crio projetos e repositórios pessoais como forma de aplicação dos meus conhecimentos em programação.
